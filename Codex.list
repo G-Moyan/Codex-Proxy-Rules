@@ -1,0 +1,19 @@
+# OpenAI / ChatGPT
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,sora.com
+
+# Static Resources
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,crixet.com
+
+# Arkose Labs
+DOMAIN-SUFFIX,client-api.arkoselabs.com
+DOMAIN,openai-api.arkoselabs.com
+
+# LiveKit
+DOMAIN-SUFFIX,chatgpt.livekit.cloud
+DOMAIN-SUFFIX,host.livekit.cloud
+DOMAIN-SUFFIX,turn.livekit.cloud
